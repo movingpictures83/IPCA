@@ -1,0 +1,4 @@
+data	plugins/IPCA/example/liver.toxicity.gene.csv
+metadata	plugins/IPCA/example/liver.toxicity.treatment.csv
+numcomponents	3
+metadatalabelcolumn	4
